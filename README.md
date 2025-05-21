@@ -28,7 +28,7 @@ I'm currently a graduate student at the University of Chicago diving deep into a
 
 ## 🚀 Featured Projects
 
-- 📈 [**Gasoline Price Forecasting**](https://github.com/nidhipareddy/gasoline-price-forecasting)  
+- 📈 [**Gasoline Price Forecasting**](https://github.com/nidhipareddy/Crude-Gasoline-Dynamics)  
   Forecasted gas prices using LSTM, ARIMAX, VAR, and ECM models with <3% MAPE; developed backtested trading strategies using EIA data and time series analysis.
   
 - 👩‍💼 [**IBM Employee Attrition Prediction**](https://github.com/nidhipareddy/ml1_finalproject)  
