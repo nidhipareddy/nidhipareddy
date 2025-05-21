@@ -40,7 +40,7 @@ I'm currently a graduate student at the University of Chicago diving deep into a
 - 📊 [**Employment Demographics Analysis**](https://github.com/nidhipareddy/employment-demographics-analysis)  
   Conducted logistic regression on IPUMS CPS microdata to investigate the effects of nativity, gender, and immigration status on employment probabilities using R and tidyverse tools.
 
-- 🗽 [**NYC Urban Mobility Analytics**](https://github.com/nidhipareddy/nyc-urban-mobility-analytics)]  
+- 🗽 [**NYC Urban Mobility Analytics**](https://github.com/nidhipareddy/nyc-urban-mobility-analytics)  
   Built a data pipeline on GCP and MySQL to analyze NYC taxi and rideshare data; identified peak usage zones, accessibility gaps, and informed equitable transit planning.
 
 ---
