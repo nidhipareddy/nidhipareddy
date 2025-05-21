@@ -28,20 +28,20 @@ I'm currently a graduate student at the University of Chicago diving deep into a
 
 ## 🚀 Featured Projects
 
-- 🔍 [**TuringBots vs Humans**]  
-  Analyzed 1.36 TiB of GitHub Archive data using PySpark to assess the impact of AI coding assistants on developer productivity, commit behaviors, and trends in open-source development.
-
-- 📊 [**Employment Demographics Analysis**]  
-  Conducted logistic regression on IPUMS CPS microdata to investigate the effects of nativity, gender, and immigration status on employment probabilities using R and tidyverse tools.
-
-- 🗽 [**NYC Urban Mobility Analytics**]  
-  Built a data pipeline on GCP and MySQL to analyze NYC taxi and rideshare data; identified peak usage zones, accessibility gaps, and informed equitable transit planning.
-
-- 📈 [**Gasoline Price Forecasting**]  
+- 📈 [**Gasoline Price Forecasting**](https://github.com/nidhipareddy/gasoline-price-forecasting)  
   Forecasted gas prices using LSTM, ARIMAX, VAR, and ECM models with <3% MAPE; developed backtested trading strategies using EIA data and time series analysis.
   
-- 👩‍💼 [**IBM Employee Attrition Prediction**]  
+- 👩‍💼 [**IBM Employee Attrition Prediction**](https://github.com/nidhipareddy/ml1_finalproject)  
   Performed employee segmentation using K-Prototypes clustering and developed cluster-specific attrition models using logistic regression, random forest, and gradient boosting. The project aimed to enhance retention strategies by identifying high-risk groups and their key drivers of attrition.
+
+- 🔍 [**TuringBots vs Humans**](https://github.com/nidhipareddy/turingbots-vs-humans)  
+  Analyzed 1.36 TiB of GitHub Archive data using PySpark to assess the impact of AI coding assistants on developer productivity, commit behaviors, and trends in open-source development.
+
+- 📊 [**Employment Demographics Analysis**](https://github.com/nidhipareddy/employment-demographics-analysis)  
+  Conducted logistic regression on IPUMS CPS microdata to investigate the effects of nativity, gender, and immigration status on employment probabilities using R and tidyverse tools.
+
+- 🗽 [**NYC Urban Mobility Analytics**](https://github.com/nidhipareddy/nyc-urban-mobility-analytics)]  
+  Built a data pipeline on GCP and MySQL to analyze NYC taxi and rideshare data; identified peak usage zones, accessibility gaps, and informed equitable transit planning.
 
 ---
 
