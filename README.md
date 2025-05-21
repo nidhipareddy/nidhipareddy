@@ -1,4 +1,4 @@
-# Hi, I'm Nidhi! 🌟
+# Hi, I'm Nidhi! 👩‍💻
 
 Welcome to my GitHub! I'm a data scientist and engineer passionate about building real-world solutions using machine learning, cloud computing, and data-driven storytelling.
 
@@ -6,8 +6,14 @@ Welcome to my GitHub! I'm a data scientist and engineer passionate about buildin
 
 ## 🎓 Education
 
-- 🎓 **M.S. in Applied Data Science**, University of Chicago (Expected Dec 2025) — GPA: 4.0  
-- 🧬 **B.S. in Bioengineering & Bioinformatics**, UC San Diego — GPA: 3.5  
+- 🎓 **M.S. in Applied Data Science**, University of Chicago 
+- 🧬 **B.S. in Bioengineering & Bioinformatics**, UC San Diego 
+
+---
+
+## 🧠 About Me
+
+I'm currently a graduate student at the University of Chicago diving deep into applied machine learning, cloud-based decision systems, and data science for impact. I’ve worked across industries from biotech to fintech, and I’m especially excited about building smart, scalable systems that solve real-world problems.
 
 ---
 
@@ -36,12 +42,6 @@ Welcome to my GitHub! I'm a data scientist and engineer passionate about buildin
   
 - 👩‍💼 [**IBM Employee Attrition Prediction**]  
   Performed employee segmentation using K-Prototypes clustering and developed cluster-specific attrition models using logistic regression, random forest, and gradient boosting. The project aimed to enhance retention strategies by identifying high-risk groups and their key drivers of attrition.
-
----
-
-## 🧠 About Me
-
-I'm currently a graduate student at the University of Chicago diving deep into applied machine learning, cloud-based decision systems, and data science for impact. I’ve worked across industries from biotech to fintech, and I’m especially excited about building smart, scalable systems that solve real-world problems.
 
 ---
 
